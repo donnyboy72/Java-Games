@@ -1,0 +1,15 @@
+This project was for me to learn how to make a game following OOP
+
+What I learned
+	In the past I made a hangman game in pythton. This showed me how much better OOP 
+	is when it comes to readable code. Making the tile class to control the length of
+	the snake body and the food should me an easy way to create a list of objects.
+	
+	This was my first project using Swing / AWT, so I learned about method calls.
+	Also how JFrame is a top window and the JPanel is a lower window. 
+	
+	This was the first time using listeners. I learned how to create my own methods
+	by overriding the parent class.
+	
+
+	
